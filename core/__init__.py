@@ -1,0 +1,1 @@
+"""SiteSnatcher core package."""
